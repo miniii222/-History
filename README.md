@@ -14,5 +14,8 @@
 
 * 강의 수강
   1. 
+  
   2.
+  
   3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
+  
