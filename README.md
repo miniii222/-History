@@ -13,9 +13,10 @@
 * 참여 공모전
 
 * 강의 수강
-  1. 
   
-  2.
+ 1. 
   
-  3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
+ 2.
+  
+ 3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
   
