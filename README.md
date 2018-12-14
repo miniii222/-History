@@ -22,7 +22,7 @@
 금융공학 | tensorflow와 keras를 이용한 딥러닝 공부
 [glm](https://github.com/miniii222/study_in_graduate/tree/master/glm) | 다양한 glm 모델 공부
 
-* 범주형 자료분석 
+* 범주형 자료분석
   
 ### 분석 경험
 
