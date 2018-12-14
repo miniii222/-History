@@ -18,7 +18,7 @@
 수강과목 | 과목설명 
 ---- | ---- 
 이론통계학2 | 다양한 이론공부와 데이터 분석 및 shiny app 개발
-[계산특론](https://github.com/miniii222/study_in_graduate/tree/master/computational%20statistics) | 최적화, sampling 등 여러 알고리즘 공부(M algorithm, MCMC, bootstrapping, SIR, IS, GenSA 등)
+[계산특론](https://github.com/miniii222/study_in_graduate/tree/master/computational%20statistics) | 최적화, sampling 등 여러 알고리즘 공부(EM algorithm, MCMC, bootstrapping, SIR, IS, GenSA 등)
 금융공학 | tensorflow와 keras를 이용한 딥러닝 공부
 [glm](https://github.com/miniii222/study_in_graduate/tree/master/glm) | 다양한 glm 모델 공부
 
