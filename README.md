@@ -2,7 +2,7 @@
 
 ### 전공 공부
   
- * 대학원
+ * [대학원](https://github.com/miniii222/study_in_graduate)
   
   * 1학기
 
