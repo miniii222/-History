@@ -38,3 +38,9 @@
  3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
     
     * [공부한 코드](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D)
+    
+  ### 스터디
+  
+  1. 크롤링 스터디
+  
+  2. 파이썬 알고리즘 
