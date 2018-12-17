@@ -19,7 +19,7 @@
 ---- | ---- 
 이론통계학2 | 다양한 이론공부와 데이터 분석 및 shiny app 개발
 [계산특론](https://github.com/miniii222/study_in_graduate/tree/master/computational%20statistics) | 최적화, sampling 등 여러 알고리즘 공부(EM algorithm, MCMC, bootstrapping, SIR, IS, GenSA 등)
-금융공학 | tensorflow와 keras를 이용한 딥러닝 공부
+금융공학 | 금융공학이라 쓰고 딥러닝이라 읽는다. tensorflow와 keras를 이용한 딥러닝 공부
 [glm](https://github.com/miniii222/study_in_graduate/tree/master/glm) | 다양한 glm 모델 공부
 
 * [범주형 자료분석](https://github.com/miniii222/study_in_graduate/tree/master/Categorical%20Analysis)
@@ -29,7 +29,7 @@
 
 ### 참여 공모전
 
-### 강의 수강
+### 수강 
   
  1. 
   
