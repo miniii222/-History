@@ -31,7 +31,8 @@
 
 1. 빅콘테스트
 
-2. lpoint [https://competition.lpoint.com/index.tran]
+2. 제5회 L.point BigData Competition
+[https://competition.lpoint.com/index.tran]
 
 ### 외부 강의 수강 
   
