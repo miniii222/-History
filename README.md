@@ -29,7 +29,11 @@
 
 ### 참여 공모전
 
-### 수강 
+1. 빅콘테스트
+
+2. lpoint [https://competition.lpoint.com/index.tran]
+
+### 외부 강의 수강 
   
  1. 
   
