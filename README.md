@@ -31,8 +31,14 @@
 
 1. 빅콘테스트
 
-2. 제5회 L.point BigData Competition
-[https://competition.lpoint.com/index.tran]
+2. [제5회 L.point BigData Competition](https://github.com/miniii222/5th_L.point_bigdata_competiton)
+
+    * Digital Trend Analyzer (부제 : 온라인 행동 기반 트렌드 예측)
+    
+    * 세부과제    
+      1. 주요 상품군별 온라인 선호지수 생성
+      2. 상품군별 수요 트랜드 예측 및 인사이트 도출
+      3. 1,2 를 활용한 신규 서비스 
 
 ### 외부 강의 수강 
   
