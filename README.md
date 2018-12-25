@@ -23,6 +23,7 @@
 [glm](https://github.com/miniii222/study_in_graduate/tree/master/glm) | 다양한 glm 모델 공부
 
 * [범주형 자료분석](https://github.com/miniii222/study_in_graduate/tree/master/Categorical%20Analysis)
+조교 및 
   
 ### 분석 경험
 
