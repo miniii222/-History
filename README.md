@@ -8,7 +8,7 @@
 
 수강과목 | 과목설명 
 ---- | ---- 
-이론통계학1 | 다양한 이론공부와 데이터 분석
+이론통계학1 | 다양한 이론을 바탕으로 한 데이터 분석
 확률론 | 다양한 분포 공부
 회귀분석론 | 좀더 깊이 있는 회귀분석 이론
 
@@ -17,7 +17,7 @@
   
 수강과목 | 과목설명 
 ---- | ---- 
-[이론통계학2](https://github.com/miniii222/study_in_graduate/tree/master/Thereotical_statistics2) | 다양한 이론공부와 데이터 분석 및 shiny app 개발
+[이론통계학2](https://github.com/miniii222/study_in_graduate/tree/master/Thereotical_statistics2) | 다양한 이론을 바탕으로  데이터 분석 및 shiny app 개발
 [계산특론](https://github.com/miniii222/study_in_graduate/tree/master/computational%20statistics) | 최적화, sampling 등 여러 알고리즘 공부(EM algorithm, MCMC, bootstrapping, SIR, IS, GenSA 등)
 금융공학 | 금융공학이라 쓰고 딥러닝이라 읽는다. tensorflow와 keras를 이용한 딥러닝 공부
 [glm](https://github.com/miniii222/study_in_graduate/tree/master/glm) | 다양한 glm 모델 공부
