@@ -45,7 +45,7 @@
   
  1. [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody) PY4E by Prof.Charles Severance [2018-07]
   
- 2. 
+ 2. [머신러닝을 위한 파이썬](https://www.edwith.org/aipython) [2018-08]
   
  3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
     
