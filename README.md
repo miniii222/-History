@@ -43,9 +43,9 @@
 
 ### 외부 강의 수강 
   
- 1. 
+ 1. [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody) PY4E by Prof.Charles Severance [2018-07]
   
- 2.
+ 2. 
   
  3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
     
