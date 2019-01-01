@@ -42,14 +42,12 @@
      3. 1,2 를 활용한 신규 서비스 
 
 ### 외부 강의 수강 
-  
- 1. [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody) PY4E by Prof.Charles Severance [2018-07]
-  
- 2. [머신러닝을 위한 파이썬](https://www.edwith.org/aipython) [2018-08]
-  
- 3. [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) [2018-12-12] ~ 
-    
-    * [공부한 코드](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D)
+번호 | 과목명 | 교수님 | 과목설명 | 수강기간 
+---- | ----  | ---- | ---- | ---- 
+1 | [모두를 위한 파이썬](https://www.edwith.org/pythonforeverybody) | Prof. Charles Severance | 파이썬의 기본 |[2018-07]
+2 | [머신러닝을 위한 파이썬](https://www.edwith.org/aipython) | Prof. 최성철 | ㅇㄴㄹ | [2018-08] 
+3 | [데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) | Prof. 문일철 | 파이썬을 이용한 여러 알고리즘 공부 [(code)](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D) | [2018-12-12] ~ 
+
     
   ### 스터디
   
