@@ -24,6 +24,7 @@
 
 * [범주형 자료분석](https://github.com/miniii222/study_in_graduate/tree/master/Categorical%20Analysis)
 조교 및 튜터링
+* ACE사업 설문지 
   
 ### 분석 경험
 
