@@ -28,7 +28,6 @@
   
 ### 분석 경험
 
-
 ### 참여 공모전
 
 1. 빅콘테스트
@@ -49,8 +48,9 @@
 2|[머신러닝을 위한 파이썬](https://www.edwith.org/aipython)| Prof. 최성철 | ㅇㄴㄹ | [2018-08] 
 3|[데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) | Prof. 문일철 | 파이썬을 이용한 여러 알고리즘 공부 [(code)](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D) | [2018-12-12] ~ 
 
-    
-  ### 스터디
+### [논문](https://github.com/miniii222/papers-summary)
+
+### 스터디
   
   1. [크롤링 스터디](https://github.com/miniii222/Crawling_Study)
   
