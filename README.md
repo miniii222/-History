@@ -27,7 +27,12 @@
 * ACE사업 [설문지 분석](https://github.com/miniii222/study_in_graduate/tree/master/etc)
   
 ### 분석 경험
-
+#### kaggle
+  - competition
+    - [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation/) 참여
+    - code
+  
+  
 ### 참여 공모전
 
 1. 빅콘테스트
