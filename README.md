@@ -1,6 +1,7 @@
 # -History
 
 ### 전공 공부
+#### (학사 전공 : 통계학, 부전공 : 컴퓨터 공학 /  석사 전공 : 통계학)
   
  * [대학원](https://github.com/miniii222/study_in_graduate) (2018.03~2020.02)
   
