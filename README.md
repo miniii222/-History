@@ -36,7 +36,7 @@
 
 1. [빅콘테스트](https://github.com/miniii222/2018_BigContest)
   
-  * 영화 관람객 예측
+    * 영화 관람객 예측
 
 2. [제5회 L.point BigData Competition](https://github.com/miniii222/5th_L.point_bigdata_competiton)
 
@@ -63,7 +63,7 @@
   1. [크롤링 스터디](https://github.com/miniii222/Crawling_Study) : chromedriver 사용
    * [SNS 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/instagram_like.ipynb) : 자동 좋아요!
    * [selenium을 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/various_functions_in_selenium.ipynb)
-   * api를 이용한 크롤링
+   * [api를 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81%20using%20API.ipynb)
     
   
   2. [파이썬 알고리즘](https://github.com/miniii222/Algorithm_Study)
