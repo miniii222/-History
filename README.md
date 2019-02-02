@@ -32,7 +32,9 @@
 
     * https://www.kaggle.com/c/elo-merchant-category-recommendation/
   
-### 빅데이터 동아리 활동 (BOAZ) (2018.08~)
+### 빅데이터 동아리 활동 (BOAZ)
+  * [Base Session](https://github.com/miniii222/BOAZ_session) (2018.08~2018.12)
+  * ADV Project Session(2019.01~)
 
 
 ### 참여 공모전
