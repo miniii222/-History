@@ -59,6 +59,7 @@
 ### 스터디
   
   1. [크롤링 스터디](https://github.com/miniii222/Crawling_Study) : chromedriver 사용
+  
     * [인스타그램 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/instagram_like.ipynb) : 자동 좋아요!
     
     * [selenium을 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/various_functions_in_selenium.ipynb)
