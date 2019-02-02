@@ -34,7 +34,9 @@
   
 ### 참여 공모전
 
-1. 빅콘테스트
+1. [빅콘테스트](https://github.com/miniii222/2018_BigContest)
+  
+  * 영화 관람객 예측
 
 2. [제5회 L.point BigData Competition](https://github.com/miniii222/5th_L.point_bigdata_competiton)
 
