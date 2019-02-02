@@ -26,12 +26,16 @@
 * [범주형 자료분석](https://github.com/miniii222/study_in_graduate/tree/master/Categorical%20Analysis)
 조교 및 튜터링
 * ACE사업 [설문지 분석](https://github.com/miniii222/study_in_graduate/tree/master/etc)
-  
+
+### [논문](https://github.com/miniii222/papers-summary)
+
+
 ### [Kaggle 분석](https://github.com/miniii222/kaggle)
 1. kaggle competition : [Elo Merchant Category Recommendation](https://github.com/miniii222/kaggle/tree/master/Elo_Merchant_Category_Recommendation) 참여
 
     * https://www.kaggle.com/c/elo-merchant-category-recommendation/
-  
+ 
+ 
 ### 빅데이터 동아리 활동 (BOAZ)
   * [Base Session](https://github.com/miniii222/BOAZ_session) (2018.08~2018.12)
   * ADV Project Session(2019.01~)
@@ -61,7 +65,7 @@
 2|[머신러닝을 위한 파이썬](https://www.edwith.org/aipython)| Prof. 최성철 | ㅇㄴㄹ | [2018-08] 
 3|[데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) | Prof. 문일철 | 파이썬을 이용한 여러 알고리즘 공부 [(code)](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D) | [2018-12-12] ~ 
 
-### [논문](https://github.com/miniii222/papers-summary)
+
 
 ### 스터디
   
