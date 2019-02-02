@@ -32,7 +32,9 @@
 
     * https://www.kaggle.com/c/elo-merchant-category-recommendation/
   
-  
+### 빅데이터 동아리 활동 (BOAZ) (2018.08~)
+
+
 ### 참여 공모전
 
 1. [빅콘테스트](https://github.com/miniii222/2018_BigContest)
