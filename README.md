@@ -81,6 +81,6 @@
   2. [파이썬 알고리즘](https://github.com/miniii222/Algorithm_Study)
 
 
-  3. [머신러닝 스터디]() 
+  3. [머신러닝 스터디](https://github.com/miniii222/Machine_Learning/tree/master/Machine_Learning_Study) 
   
       * 책 : [(파이썬을 이용한) 머신러닝, 딥러닝 실전 개발 입문 : 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기 ](http://wikibook.co.kr/python-machine-learning/)
