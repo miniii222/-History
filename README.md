@@ -70,13 +70,13 @@
 ### 스터디
   
   1. [크롤링 스터디](https://github.com/miniii222/Crawling_Study) : chromedriver 사용
-    * [SNS 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/instagram_like.ipynb) : 자동 좋아요!
-    * [selenium을 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/various_functions_in_selenium.ipynb)
-    * [api를 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81%20using%20API.ipynb)
+   * [SNS 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/instagram_like.ipynb) : 자동 좋아요!
+   * [selenium을 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/various_functions_in_selenium.ipynb)
+   * [api를 이용한 크롤링](https://github.com/miniii222/Crawling_Study/blob/master/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81%20using%20API.ipynb)
     
   
   2. [파이썬 알고리즘](https://github.com/miniii222/Algorithm_Study)
 
 
-  3. [머신러닝 스터디]()
-    * 책 : [(파이썬을 이용한) 머신러닝, 딥러닝 실전 개발 입문 : 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기 ](http://wikibook.co.kr/python-machine-learning/)
+  3. [머신러닝 스터디]() 
+   * 책 : [(파이썬을 이용한) 머신러닝, 딥러닝 실전 개발 입문 : 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기 ](http://wikibook.co.kr/python-machine-learning/)
