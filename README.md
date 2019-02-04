@@ -30,12 +30,6 @@
 ### [논문](https://github.com/miniii222/papers-summary)
 
 
-### [Kaggle 분석](https://github.com/miniii222/kaggle)
-1. kaggle competition : [Elo Merchant Category Recommendation](https://github.com/miniii222/kaggle/tree/master/Elo_Merchant_Category_Recommendation) 참여
-
-    * https://www.kaggle.com/c/elo-merchant-category-recommendation/
- 
- 
 ### 빅데이터 동아리 활동 (BOAZ)
   * [Base Session](https://github.com/miniii222/BOAZ_session) (2018.08~2018.12)
   * ADV Project Session(2019.01~)
@@ -84,3 +78,7 @@
   3. [머신러닝 스터디](https://github.com/miniii222/Machine_Learning/tree/master/Machine_Learning_Study) 
   
       * 책 : [(파이썬을 이용한) 머신러닝, 딥러닝 실전 개발 입문 : 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기 ](http://wikibook.co.kr/python-machine-learning/)
+      
+  4. kaggle competition : [Elo Merchant Category Recommendation](https://github.com/miniii222/kaggle/tree/master/Elo_Merchant_Category_Recommendation) 참여
+
+      * https://www.kaggle.com/c/elo-merchant-category-recommendation/
