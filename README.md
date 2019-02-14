@@ -82,3 +82,7 @@
   4. kaggle competition : [Elo Merchant Category Recommendation](https://github.com/miniii222/kaggle/tree/master/Elo_Merchant_Category_Recommendation) 참여
 
       * https://www.kaggle.com/c/elo-merchant-category-recommendation/
+      
+      
+### [외주분석](https://github.com/miniii222/request_analysis)
+
