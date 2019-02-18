@@ -27,7 +27,7 @@
 조교 및 튜터링
 * ACE사업 [설문지 분석](https://github.com/miniii222/study_in_graduate/tree/master/etc)
 
-### [논문](https://github.com/miniii222/papers-summary)
+### [논문 review](https://github.com/miniii222/papers-summary)
 
 
 ### 빅데이터 동아리 활동 (BOAZ)
