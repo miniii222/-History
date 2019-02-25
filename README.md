@@ -87,5 +87,5 @@
       * https://www.kaggle.com/c/elo-merchant-category-recommendation/
       
       
-### [외주분석](https://github.com/miniii222/request_analysis)
+### [의뢰받은 통계 분석](https://github.com/miniii222/request_analysis)
 
