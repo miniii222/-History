@@ -35,6 +35,15 @@
   * [ADV Session](https://github.com/miniii222/BOAZ_adv_project) project 수행 (2019.01~)
     - recommender system
 
+### [Kaggle](https://www.kaggle.com/)
+#### Competition 참가
+##### - [Elo Merchant Category Recommendation](https://github.com/miniii222/kaggle/tree/master/Elo_Merchant_Category_Recommendation) 참여
+- 결과 상위 6% 동메달
+![](https://github.com/miniii222/kaggle/blob/master/Elo_Merchant_Category_Recommendation/result.JPG "elo")
+
+#### kernel공부
+
+
 
 ### 참여 공모전
 
