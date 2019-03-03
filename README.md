@@ -1,5 +1,9 @@
 # -History
 
+### 진행했던 project portfolo는 [여기에!](https://github.com/miniii222/Portfolio/blob/master/project_%EC%A0%95%EB%A6%AC.md)
+
+
+
 ### 전공 공부
 #### (학사 전공 : 통계학, 부전공 : 컴퓨터 공학 /  석사 전공 : 통계학)
   
