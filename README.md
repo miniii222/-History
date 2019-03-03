@@ -1,6 +1,6 @@
 # -History
 
-### 진행했던 project portfolo는 [여기에!](https://github.com/miniii222/Portfolio/blob/master/project_%EC%A0%95%EB%A6%AC.md)
+### 진행했던 project 더 자세한 portfolo는 [여기에!](https://github.com/miniii222/Portfolio/blob/master/project_%EC%A0%95%EB%A6%AC.md)
 
 
 
