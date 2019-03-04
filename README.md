@@ -31,6 +31,14 @@
 조교 및 튜터링
 * ACE사업 [설문지 분석](https://github.com/miniii222/study_in_graduate/tree/master/etc)
 
+3. 학기 (2019.03~2019.06)
+  
+수강과목 | 과목설명 
+---- | ---- 
+[통계그래픽스] | 
+[데이터마이닝] | 
+[고급선형모형] | 
+
 ### [논문 review](https://github.com/miniii222/papers-summary)
 
 
