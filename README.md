@@ -35,7 +35,7 @@
   
 수강과목 | 과목설명 
 ---- | ---- 
-[통계그래픽스] | 
+[통계그래픽스](https://github.com/miniii222/study_in_graduate/tree/master/Statistical_Graphics) | r을 이용한 다양한 시각화 및 EDA
 [데이터마이닝] | 
 [고급선형모형] | 
 
