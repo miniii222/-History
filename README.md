@@ -73,7 +73,8 @@
      2. 상품군별 수요 트랜드 예측 및 인사이트 도출
      3. 1,2 를 활용한 신규 서비스 
      
-3. [CNV]
+3. [CNV](https://github.com/miniii222/CNV)
+- CNV를 이용한 cancer classification
     
 ### 외부 강의 수강 
 번호|과목명|교수님|과목설명|수강기간 
