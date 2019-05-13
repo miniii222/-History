@@ -51,7 +51,6 @@
 ![](https://github.com/miniii222/kaggle_competition/blob/master/Elo_Merchant_Category_Recommendation/ranking.JPG "elo")
 
 #### 2.[kernel공부](https://github.com/miniii222/Kaggle_kernel)
-##### - [santander_product_recommendation](https://github.com/miniii222/Kaggle_kernel/tree/master/santander_product_recommendation)
 
 
 
