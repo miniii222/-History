@@ -33,8 +33,8 @@
 수강과목 | 과목설명 
 ---- | ---- 
 [통계그래픽스](https://github.com/miniii222/study_in_graduate/tree/master/Statistical_Graphics) | r을 이용한 다양한 시각화 및 EDA
-[데이터마이닝](https://github.com/miniii222/study_in_graduate/tree/master/Datamining) | 
-[고급선형모형](https://github.com/miniii222/study_in_graduate/tree/master/Advanced_linear_models) | 
+[데이터마이닝](https://github.com/miniii222/study_in_graduate/tree/master/Datamining) | ISLR, ESL을 이용한 데이터 마이닝 수업
+[고급선형모형](https://github.com/miniii222/study_in_graduate/tree/master/Advanced_linear_models) | longitudinal data 
 
 ### [논문 review](https://github.com/miniii222/papers-summary)
 
@@ -80,6 +80,13 @@
 3|[데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) | Prof. 문일철 | 파이썬을 이용한 여러 알고리즘 공부 [(code)](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D) | [2018-12-12] ~ 
 4|[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)|Andrew Ng|Recommend System 부분만 수강 [정리](https://github.com/miniii222/Coursera/tree/master/Machine_Learning_Andrew_Ng/Recommender%20System)
 5|[Udemy Remmender System](https://www.udemy.com/building-recommender-systems-with-machine-learning-and-ai/)|Frank Kane|
+
+
+### 공부한 책
+책 제목|책 설명|정리 링크
+----|----|----
+파이썬 머신러닝 완벽가이드 | 다양한 머신러닝 기법들의 설명이 아주 좋다. 설명 후, 캐글 데이터를 이용하여 직접 분석해 볼 수 있다. 최신 모델들인 LightGBM같은 모델의 설명도 담고 있어서 좋았다. | [link](https://github.com/miniii222/MachineLearning_Guide)
+케라스 창시자에게 배우는 딥러닝 | 케라스를 이용한 딥러닝 설명이 좋다. 다양한 예제를 통해, 딥러닝에 대한 설명과 왜 이경우에 이러한 파라미터를 늘리고, 줄이는지 설명이 있다. | [link](https://github.com/miniii222/Keras_Deeplearning)
 
 
 
