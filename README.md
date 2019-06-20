@@ -80,6 +80,7 @@
 3|[데이터 구조 및 분석](https://www.edwith.org/datastructure-2018F/joinLectures/18542) | Prof. 문일철 | 파이썬을 이용한 여러 알고리즘 공부 [(code)](https://github.com/miniii222/Algorithm_Study/tree/master/%5BKOOC%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EB%B0%8F%20%EB%B6%84%EC%84%9D) | [2018-12-12] ~ 
 4|[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)|Andrew Ng|Recommend System 부분만 수강 [정리](https://github.com/miniii222/Coursera/tree/master/Machine_Learning_Andrew_Ng/Recommender%20System)
 5|[Udemy Remmender System](https://www.udemy.com/building-recommender-systems-with-machine-learning-and-ai/)|Frank Kane|
+6|[인공지능을 위한 선형대수](https://www.edwith.org/linearalgebra4ai/joinLectures/14072)|Prof. 주재걸| 선형대수 내용 정리|2019-06~
 
 
 ### 공부한 책
