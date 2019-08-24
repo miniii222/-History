@@ -38,7 +38,8 @@
 
 ### [논문 review](https://github.com/miniii222/papers-summary)
 
-
+### 수상
+- [2019 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/) 입선
 ### 빅데이터 동아리 활동 (BOAZ)
   * [Base Session](https://github.com/miniii222/BOAZ_session) (2018.08~2018.12)
   * [ADV Session](https://github.com/miniii222/BOAZ_adv_project) project 수행 (2019.01~)
